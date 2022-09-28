@@ -9,3 +9,4 @@ There are 3 python notebooks in total:
 ### The codes were ran in Google Colab, and the datasets were read directly from my google drive folder. Hence, if you were to clone this repo and run on your local machine, please remember to change the directories when you read and write to csv files
 
 ## Final Report
+[embed]Group 23 Final Report.pdf[/embed]
